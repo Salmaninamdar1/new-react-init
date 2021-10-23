@@ -1,0 +1,11 @@
+.img-container{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.img-container img{
+    /* margin: 16px 0; */
+    margin: 16px 0;
+}
